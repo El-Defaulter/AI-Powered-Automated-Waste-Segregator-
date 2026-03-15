@@ -38,20 +38,6 @@ The **AI-Powered Automated Waste Segregator** is an intelligent dustbin system t
 - Metal Waste
 - Dry Waste
 
-## Project Structure
-```
-AI-Waste-Segregator
-│
-├── arduino/
-├── esp32_cam/
-├── ml_model/
-├── dataset/
-├── hardware/
-├── docs/
-├── requirements.txt
-└── README.md
-```
-
 ## Machine Learning Model
 The classification model is built using **Python, TensorFlow/Keras and OpenCV** for image classification.
 
