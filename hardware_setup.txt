@@ -1,0 +1,10 @@
+
+Hardware Setup
+
+1. ESP32-CAM mounted on top of dustbin for capturing waste images.
+2. Ultrasonic sensor detects object presence.
+3. Moisture sensor identifies wet waste.
+4. Capacitive sensor detects metal objects.
+5. Arduino UNO processes sensor signals.
+6. Servo motor opens lid.
+7. Stepper motor rotates waste segregation tray.
